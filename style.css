@@ -16,6 +16,7 @@ ul.section {
 img {
     padding-top: 1em;
     width: 100%;
+    object-fit: contain;
 }
 
 h1.section {
