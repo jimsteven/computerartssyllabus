@@ -13,6 +13,11 @@ ul.section {
     color: #f1faee;
 }
 
+img {
+    padding-top: 1em;
+    width: 100%;
+}
+
 h1.section {
     color: #f1faee;
 }
